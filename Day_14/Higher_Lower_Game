@@ -1,0 +1,8 @@
+1. Print logo and Welcome text
+2. Randomise 2 items (views) from the list with dictionaries and assign each item to variable view_1 and view_2
+3. Write function to compare view_1 vs view_2
+4. Print vs logo inn between
+5. Write function game_over. If guess is wrong game is over
+6. If guess is correct randomize next item and compare it to one that has won
+7. If game is over ask user if he wants to play again
+8. Write function to count correct guesses
