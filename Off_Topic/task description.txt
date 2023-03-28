@@ -1,8 +1,0 @@
-1. Entry file with text change to exit file
-2. Check the statistics of the words
-3. Check - no breakets condition and not fully closed breakets condition
-4. Write tests
-5. Input quote: Ala ma kota(a kot ma) Ale, ((ale Ala) wcale
-6. Output quote: Ala ma kota ma kot a Ale, wcale ale Ala
-* text in breakets is supposed to be sorted. If there is a breaket in breaket,
- there should be first one in brekets sorted
